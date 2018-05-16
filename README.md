@@ -1,7 +1,9 @@
 # kleyu.github.io
 host for sites
+to access different projects, just put /(nameOfTheProject)  at the end of url
+colorGame is default.
 
-new pages will be put below as updates, all pushed to master branch
+new pages will be documented below as updates, all pushed to master branch
 
 15/05/2018 - the rgb color game  (webdevbootcamp.coltsteele)
 
