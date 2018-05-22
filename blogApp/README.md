@@ -4,6 +4,7 @@ Created with:
 * node.js
 * express.js
 * mongoDB
+* SemanticUI
 
 NPM dependencies are located in packages.json
 
