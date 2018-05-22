@@ -13,3 +13,4 @@ new pages will be documented below as updates, all pushed to master branch
 
 19/05/2018 - holiday-booking site using materialize.css framework and typeit.js (traversymedia)
 
+21/05/2018 - add tributePage site using Bootstrap 4 framework
