@@ -1,0 +1,23 @@
+i.icon {
+	font-size: 2em;
+}
+.container.main {
+	margin-top: 7em;
+}
+#delete {
+	display: inline;
+}
+body {
+	background-color: #eeeeee;
+}
+.description {
+	font-size: 0.5em;
+	text-align: justify;
+}
+.item {
+	text-align: center;
+}
+.title {
+	text-align: center;
+	align-items: center;
+}
