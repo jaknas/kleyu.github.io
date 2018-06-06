@@ -16,3 +16,5 @@ new pages will be documented below as updates, all pushed to master branch
 21/05/2018 - add tributePage site using Bootstrap 4 framework
 
 02/06/2018 - add mobile-first website using html/css/ and jquery for smooth scroll
+
+06/06/2018 - add css grid based website (traversymedia)
