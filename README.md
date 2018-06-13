@@ -18,3 +18,5 @@ new pages will be documented below as updates, all pushed to master branch
 02/06/2018 - add mobile-first website using html/css/ and jquery for smooth scroll
 
 06/06/2018 - add css grid based website (traversymedia)
+
+13/06/2018 - add responsive, restaurant landing page built with css grid (cssgrid.io)
