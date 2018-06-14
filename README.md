@@ -22,3 +22,5 @@ new pages will be documented below as updates, all pushed to master branch
 13/06/2018 - add responsive, restaurant landing page built with css grid (cssgrid.io)
 
 14/06/2018 - full-bleed mini blog using grid (cssgrid.io)
+
+15/06/2018 - simple page created with mobile first approach. applied css grid in media query > 700px
