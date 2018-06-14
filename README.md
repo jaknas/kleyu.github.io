@@ -20,3 +20,5 @@ new pages will be documented below as updates, all pushed to master branch
 06/06/2018 - add css grid based website (traversymedia)
 
 13/06/2018 - add responsive, restaurant landing page built with css grid (cssgrid.io)
+
+14/06/2018 - full-bleed mini blog using grid (cssgrid.io)
