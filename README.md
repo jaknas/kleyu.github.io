@@ -1,7 +1,7 @@
 # kleyu.github.io
 host for sites
 to access different projects, just put <br>/(nameOfTheProject)  at the end of url <br>
-colorGame is default.
+colorGame is default one.
 
 new pages will be documented below as updates, all pushed to master branch
 
