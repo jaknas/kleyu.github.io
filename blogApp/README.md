@@ -9,5 +9,5 @@ Created with:
 NPM dependencies are located in packages.json
 
 
-showcase of working app on localhost:
+# showcase of working app on localhost:
 [click me](https://gfycat.com/SpectacularGeneralAuk)
